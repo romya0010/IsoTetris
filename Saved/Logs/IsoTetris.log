@@ -27320,3 +27320,17 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.07-13.42.58:973][201]AssetCheck: New page: Asset Save: multiple assets
 [2020.04.07-13.42.58:973][201]LogContentValidation: Display: Validating Blueprint /Game/TetrisBP/Blueprints/Player/Spaceship.Spaceship
 [2020.04.07-13.42.58:973][201]LogContentValidation: Display: Validating Material /Game/Assets/Materials/projection_Mat.projection_Mat
+[2020.04.07-13.43.45:970][474]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2020.04.07-13.43.46:049][474]LogSlate: Window 'IsoTetris - Unreal Editor' being destroyed
+[2020.04.07-13.43.46:135][474]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.04.07-13.43.46:135][474]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.07-13.43.46:225][474]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.04.07-13.43.46:225][474]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.04.07-13.43.46:225][474]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.07-13.43.46:301][474]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.04.07-13.43.46:301][474]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.04.07-13.43.46:301][474]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.07-13.43.46:432][475]Cmd: QUIT_EDITOR
+[2020.04.07-13.43.46:432][475]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.04.07-13.43.46:455][475]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.04.07-13.43.46:455][475]LogAudioMixer: Display: No commands were queued while flushing the source manager.
