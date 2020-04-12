@@ -1,0 +1,1139 @@
+﻿Log file open, 04/09/20 01:07:35
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: IsoTetris
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.051015
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin HDRIBackdrop
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11100242
+LogInit: Engine Version: 4.24.2-11100242+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Jan 24 2020 02:05:53
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.04.08-22.07.35:913][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.04.08-22.07.35:913][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.04.08-22.07.35:913][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/User/Documents/GitHub/IsoTetris/Saved/Config/Windows/Engine.ini]
+[2020.04.08-22.07.35:913][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.04.08-22.07.35:913][  0]LogConfig: Setting CVar [[r.CustomDepth:3]]
+[2020.04.08-22.07.35:913][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/User/Documents/GitHub/IsoTetris/Saved/Config/Windows/Engine.ini]
+[2020.04.08-22.07.35:914][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/User/Documents/GitHub/IsoTetris/Saved/Config/Windows/Engine.ini]
+[2020.04.08-22.07.35:914][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.04.08-22.07.35:914][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.04.08-22.07.35:914][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.04.08-22.07.35:914][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.04.08-22.07.35:914][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.04.08-22.07.35:914][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.04.08-22.07.35:914][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.04.08-22.07.35:914][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.04.08-22.07.35:914][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.04.08-22.07.35:914][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.04.08-22.07.35:914][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.04.08-22.07.35:914][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.04.08-22.07.35:914][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.04.08-22.07.35:914][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.04.08-22.07.35:914][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/User/Documents/GitHub/IsoTetris/Saved/Config/Windows/Engine.ini]
+[2020.04.08-22.07.35:914][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.04.08-22.07.35:914][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.04.08-22.07.35:914][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.04.08-22.07.35:914][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.04.08-22.07.35:914][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.04.08-22.07.35:914][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.04.08-22.07.35:914][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.04.08-22.07.35:914][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.04.08-22.07.35:914][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.04.08-22.07.35:914][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.04.08-22.07.35:914][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.04.08-22.07.35:914][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.04.08-22.07.35:914][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.04.08-22.07.35:914][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/User/Documents/GitHub/IsoTetris/Saved/Config/Windows/Engine.ini]
+[2020.04.08-22.07.35:914][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/User/Documents/GitHub/IsoTetris/Saved/Config/Windows/Engine.ini]
+[2020.04.08-22.07.35:917][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/User/Documents/GitHub/IsoTetris/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/User/Documents/GitHub/IsoTetris/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/User/Documents/GitHub/IsoTetris/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/User/Documents/GitHub/IsoTetris/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/User/Documents/GitHub/IsoTetris/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/User/Documents/GitHub/IsoTetris/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/User/Documents/GitHub/IsoTetris/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/User/Documents/GitHub/IsoTetris/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.04.08-22.07.35:917][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.04.08-22.07.35:917][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.08-22.07.35:917][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.04.08-22.07.35:919][  0]LogHAL: Display: Platform has ~ 64 GB [68630433792 / 68719476736 / 64], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.04.08-22.07.35:919][  0]LogInit: Going up to parent DeviceProfile []
+[2020.04.08-22.07.35:919][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/User/Documents/GitHub/IsoTetris/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-22.07.35:919][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.08-22.07.35:919][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.08-22.07.35:919][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/User/Documents/GitHub/IsoTetris/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-22.07.35:919][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.08-22.07.35:919][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/User/Documents/GitHub/IsoTetris/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-22.07.35:919][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.08-22.07.35:919][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.08-22.07.35:919][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.08-22.07.35:919][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.08-22.07.35:919][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.08-22.07.35:919][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.08-22.07.35:919][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.08-22.07.35:919][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.08-22.07.35:919][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.08-22.07.35:919][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.08-22.07.35:919][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.08-22.07.35:919][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.08-22.07.35:919][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.08-22.07.35:919][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.08-22.07.35:919][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.08-22.07.35:919][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.08-22.07.35:919][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.08-22.07.35:919][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.08-22.07.35:919][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/User/Documents/GitHub/IsoTetris/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-22.07.35:919][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.08-22.07.35:919][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.08-22.07.35:919][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.08-22.07.35:919][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.08-22.07.35:920][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.08-22.07.35:920][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.08-22.07.35:920][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.08-22.07.35:920][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.08-22.07.35:920][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.08-22.07.35:920][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.08-22.07.35:920][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.08-22.07.35:920][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.08-22.07.35:920][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.08-22.07.35:920][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.08-22.07.35:920][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.08-22.07.35:920][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.08-22.07.35:920][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.08-22.07.35:920][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.08-22.07.35:920][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.08-22.07.35:920][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.08-22.07.35:920][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.08-22.07.35:920][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.08-22.07.35:920][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.08-22.07.35:920][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.08-22.07.35:920][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.08-22.07.35:920][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.08-22.07.35:920][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.08-22.07.35:920][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.08-22.07.35:920][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.08-22.07.35:920][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.08-22.07.35:920][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/User/Documents/GitHub/IsoTetris/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-22.07.35:920][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.08-22.07.35:920][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.08-22.07.35:920][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.08-22.07.35:920][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.08-22.07.35:920][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.08-22.07.35:920][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.04.08-22.07.35:920][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.08-22.07.35:920][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.08-22.07.35:920][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.08-22.07.35:920][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/User/Documents/GitHub/IsoTetris/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-22.07.35:920][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.08-22.07.35:920][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.08-22.07.35:920][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.08-22.07.35:920][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.04.08-22.07.35:920][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.08-22.07.35:920][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.08-22.07.35:920][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.08-22.07.35:920][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.08-22.07.35:920][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.08-22.07.35:920][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.08-22.07.35:920][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.08-22.07.35:920][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.08-22.07.35:920][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.04.08-22.07.35:920][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.08-22.07.35:920][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.08-22.07.35:920][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.04.08-22.07.35:920][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.04.08-22.07.35:920][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.04.08-22.07.35:920][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.04.08-22.07.35:920][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.04.08-22.07.35:920][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.04.08-22.07.35:920][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.04.08-22.07.35:920][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.04.08-22.07.35:920][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.04.08-22.07.35:920][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.04.08-22.07.35:920][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.04.08-22.07.35:920][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/User/Documents/GitHub/IsoTetris/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-22.07.35:920][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.08-22.07.35:920][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.08-22.07.35:920][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/User/Documents/GitHub/IsoTetris/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-22.07.35:920][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.04.08-22.07.35:920][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.04.08-22.07.35:920][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.04.08-22.07.35:920][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.04.08-22.07.35:920][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.04.08-22.07.35:920][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.04.08-22.07.35:920][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/User/Documents/GitHub/IsoTetris/Saved/Config/Windows/Engine.ini]
+[2020.04.08-22.07.35:920][  0]LogInit: Computer: Z390AI9
+[2020.04.08-22.07.35:920][  0]LogInit: User: User
+[2020.04.08-22.07.35:920][  0]LogInit: CPU Page size=4096, Cores=8
+[2020.04.08-22.07.35:920][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.04.08-22.07.35:920][  0]LogMemory: Memory total: Physical=63.9GB (64GB approx)
+[2020.04.08-22.07.35:920][  0]LogMemory: Platform Memory Stats for Windows
+[2020.04.08-22.07.35:920][  0]LogMemory: Process Physical Memory: 106.80 MB used, 106.80 MB peak
+[2020.04.08-22.07.35:920][  0]LogMemory: Process Virtual Memory: 102.46 MB used, 102.46 MB peak
+[2020.04.08-22.07.35:920][  0]LogMemory: Physical Memory: 14116.71 MB used,  51334.37 MB free, 65451.08 MB total
+[2020.04.08-22.07.35:920][  0]LogMemory: Virtual Memory: 5179.27 MB used,  134212552.00 MB free, 134217728.00 MB total
+[2020.04.08-22.07.35:922][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.04.08-22.07.35:934][  0]LogInit: Using OS detected language (en-GB).
+[2020.04.08-22.07.35:934][  0]LogInit: Using OS detected locale (en-US).
+[2020.04.08-22.07.35:935][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.04.08-22.07.36:030][  0]LogInit: Setting process to per monitor DPI aware
+[2020.04.08-22.07.36:054][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.04.08-22.07.36:054][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.04.08-22.07.36:141][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.08-22.07.36:141][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.04.08-22.07.36:141][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.04.08-22.07.36:141][  0]LogD3D11RHI: D3D11 adapters:
+[2020.04.08-22.07.36:185][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2020.04.08-22.07.36:185][  0]LogD3D11RHI:       8079/0/32725 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.04.08-22.07.36:187][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.04.08-22.07.36:187][  0]LogD3D11RHI:       0/0/32725 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.04.08-22.07.36:187][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.04.08-22.07.36:193][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.04.08-22.07.36:193][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2020.04.08-22.07.36:193][  0]LogWindows: EnumDisplayDevices:
+[2020.04.08-22.07.36:193][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2020.04.08-22.07.36:193][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2020.04.08-22.07.36:193][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.04.08-22.07.36:193][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.04.08-22.07.36:193][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.04.08-22.07.36:193][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2020.04.08-22.07.36:193][  0]LogD3D11RHI:   Driver Version: 445.75 (internal:26.21.14.4575, unified:445.75)
+[2020.04.08-22.07.36:193][  0]LogD3D11RHI:      Driver Date: 3-17-2020
+[2020.04.08-22.07.36:194][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2020.04.08-22.07.36:223][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.04.08-22.07.36:223][  0]LogD3D11RHI: Async texture creation enabled
+[2020.04.08-22.07.36:234][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.04.08-22.07.36:657][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.04.08-22.07.36:678][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.04.08-22.07.36:678][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.04.08-22.07.36:678][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.04.08-22.07.36:678][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.04.08-22.07.36:678][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.04.08-22.07.36:678][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.04.08-22.07.36:678][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.04.08-22.07.36:678][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.04.08-22.07.36:678][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.04.08-22.07.36:678][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.04.08-22.07.36:678][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.04.08-22.07.36:678][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.04.08-22.07.36:678][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.04.08-22.07.36:678][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.04.08-22.07.36:678][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.04.08-22.07.36:678][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.04.08-22.07.36:678][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.04.08-22.07.36:678][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.04.08-22.07.36:690][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.04.08-22.07.36:690][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.04.08-22.07.36:695][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.04.08-22.07.36:699][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.04.08-22.07.36:704][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.04.08-22.07.36:708][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.04.08-22.07.36:713][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.04.08-22.07.36:718][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.04.08-22.07.36:733][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.04.08-22.07.36:733][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.04.08-22.07.36:742][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.04.08-22.07.36:742][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.04.08-22.07.36:747][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.04.08-22.07.36:752][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.04.08-22.07.36:757][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.04.08-22.07.36:761][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.04.08-22.07.36:761][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.04.08-22.07.36:763][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.04.08-22.07.36:776][  0]LogShaderCompilers: Guid format shader working directory is -11 characters bigger than the processId version (../../../../../../Users/User/Documents/GitHub/IsoTetris/Intermediate/Shaders/WorkingDirectory/15724/).
+[2020.04.08-22.07.36:776][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/User/AppData/Local/Temp/UnrealShaderWorkingDir/E626D58D4468AA1B0CC3A09631D77BB4/'.
+[2020.04.08-22.07.36:776][  0]LogXGEController: Cleaning working directory: C:/Users/User/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.04.08-22.07.36:776][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.04.08-22.07.36:777][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.04.08-22.07.36:777][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.04.08-22.07.37:270][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.04.08-22.07.37:307][  0]LogDerivedDataCache: Loaded boot cache 0.04s 78MB C:/Users/User/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.04.08-22.07.37:307][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/User/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.04.08-22.07.37:307][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/User/Documents/GitHub/IsoTetris/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.04.08-22.07.37:307][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.04.08-22.07.37:307][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/User/Documents/GitHub/IsoTetris/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.08-22.07.37:307][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.04.08-22.07.37:314][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.04.08-22.07.37:314][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.08-22.07.37:314][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.04.08-22.07.37:315][  0]LogDerivedDataCache: Using Local data cache path C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.04.08-22.07.37:315][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.04.08-22.07.37:315][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.04.08-22.07.37:333][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.04.08-22.07.37:334][  0]LogSlate: Using FreeType 2.10.0
+[2020.04.08-22.07.37:335][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.04.08-22.07.37:369][  0]LogAssetRegistry: FAssetRegistry took 0.0018 seconds to start up
+[2020.04.08-22.07.37:559][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.08-22.07.37:665][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.04.08-22.07.37:665][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.04.08-22.07.37:665][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.04.08-22.07.37:665][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.04.08-22.07.37:665][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.04.08-22.07.37:675][  0]LogNetVersion: IsoTetris 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 2822002020)
+[2020.04.08-22.07.38:349][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.026771 seconds
+[2020.04.08-22.07.38:353][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.04.08-22.07.38:353][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.04.08-22.07.38:353][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.04.08-22.07.38:613][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.04.08-22.07.38:614][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.08-22.07.38:643][  0]SourceControl: Source control is disabled
+[2020.04.08-22.07.38:644][  0]SourceControl: Source control is disabled
+[2020.04.08-22.07.38:644][  0]SourceControl: Source control is disabled
+[2020.04.08-22.07.38:645][  0]SourceControl: Source control is disabled
+[2020.04.08-22.07.38:645][  0]SourceControl: Source control is disabled
+[2020.04.08-22.07.38:696][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.04.08-22.07.38:701][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.04.08-22.07.38:701][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.04.08-22.07.38:757][  0]LogOcInput: OculusInput pre-init called
+[2020.04.08-22.07.38:762][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.04.08-22.07.38:762][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.04.08-22.07.38:807][  0]LogEngine: Initializing Engine...
+[2020.04.08-22.07.38:808][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.08-22.07.38:808][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.04.08-22.07.39:035][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.04.08-22.07.39:039][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.04.08-22.07.39:050][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.08-22.07.39:050][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.08-22.07.39:050][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.08-22.07.39:050][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.08-22.07.39:050][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.08-22.07.39:050][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.08-22.07.39:050][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.08-22.07.39:050][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.08-22.07.39:050][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.08-22.07.39:050][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.08-22.07.39:068][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.08-22.07.39:068][  0]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.04.08-22.07.39:068][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.04.08-22.07.39:068][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.08-22.07.39:068][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.08-22.07.39:068][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.08-22.07.39:068][  0]LogAudioMixer: Display: Channel Order:
+[2020.04.08-22.07.39:068][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.08-22.07.39:068][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.04.08-22.07.39:145][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.04.08-22.07.39:148][  0]LogInit: FAudioDevice initialized.
+[2020.04.08-22.07.39:148][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.04.08-22.07.39:185][  0]LogDerivedDataCache: Saved boot cache 0.04s 78MB C:/Users/User/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.04.08-22.07.39:188][  0]LogInit: Texture streaming: Enabled
+[2020.04.08-22.07.39:195][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.04.08-22.07.39:195][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={29903CBD-48D0-5515-D36B-61B09415DF83}
+[2020.04.08-22.07.39:195][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.04.08-22.07.39:196][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.04.08-22.07.39:236][  0]LogInit: Transaction tracking system initialized
+[2020.04.08-22.07.39:242][  0]BlueprintLog: New page: Editor Load
+[2020.04.08-22.07.39:259][  0]LocalizationService: Localization service is disabled
+[2020.04.08-22.07.39:278][  0]LogLinker: Warning: Failed to load '/Game/FlyingBP/FlyingOverview': Can't find file.
+[2020.04.08-22.07.39:278][  0]LogLinker: Warning: Failed to load '/Game/FlyingBP/FlyingOverview': Can't find file.
+[2020.04.08-22.07.39:278][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/FlyingBP/FlyingOverview.FlyingOverview_C'
+[2020.04.08-22.07.39:432][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/GitHub/IsoTetris/Content/' took 0.00s
+[2020.04.08-22.07.39:432][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.04.08-22.07.39:432][  0]LogCook: Display: Mobile HDR setting 1
+[2020.04.08-22.07.40:902][  0]SourceControl: Source control is disabled
+[2020.04.08-22.07.40:902][  0]Cmd: MAP LOAD FILE="../../../../../../Users/User/Documents/GitHub/IsoTetris/Content/FlyingBP/Maps/FlyingExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.08-22.07.40:902][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/User/Documents/GitHub/IsoTetris/Content/FlyingBP/Maps/FlyingExampleMap.umap'
+[2020.04.08-22.07.40:902][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.08-22.07.40:902][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.098ms to complete.
+[2020.04.08-22.07.40:902][  0]LogFileHelpers: Loading map 'FlyingExampleMap' took 0.000
+[2020.04.08-22.07.41:023][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.08-22.07.41:027][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.08-22.07.41:031][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.08-22.07.41:035][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.08-22.07.41:038][  0]LogCollectionManager: Loaded 0 collections in 0.001057 seconds
+[2020.04.08-22.07.41:046][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/GitHub/IsoTetris/Saved/Collections/' took 0.00s
+[2020.04.08-22.07.41:046][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/GitHub/IsoTetris/Content/Developers/User/Collections/' took 0.00s
+[2020.04.08-22.07.41:046][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/GitHub/IsoTetris/Content/Collections/' took 0.00s
+[2020.04.08-22.07.41:046][  0]LogContentBrowser: Native class hierarchy populated in 0.0058 seconds. Added 3015 classes and 717 folders.
+[2020.04.08-22.07.41:048][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0001 seconds. Added 0 classes and 0 folders.
+[2020.04.08-22.07.41:076][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.04.08-22.07.41:079][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2020.04.08-22.07.41:083][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2020.04.08-22.07.41:145][  0]LogSlate: Took 0.000119 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.08-22.07.41:147][  0]LogSlate: Took 0.000082 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.08-22.07.41:150][  0]LogSlate: Took 0.000124 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.08-22.07.41:199][  0]LogRenderer: Reallocating scene render targets to support 1000x536 Format 10 NumSamples 1 (Frame:1).
+[2020.04.08-22.07.41:249][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.04.08-22.07.41:249][  0]LogLoad: (Engine Initialization) Total time: 6.04 seconds
+[2020.04.08-22.07.41:249][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.04.08-22.07.41:283][  0]LogAssetRegistry: Asset discovery search completed in 3.9146 seconds
+[2020.04.08-22.07.41:285][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
+[2020.04.08-22.07.41:286][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.04.08-22.07.41:314][  0]LogSlate: Took 0.000080 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.08-22.07.42:270][113]LogSlate: Took 0.000127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.08-22.07.45:518][451]LogAssetEditorSubsystem: Opening Asset editor for TextureCube /Game/Yosi/Sky_Box/SkyBox_1.SkyBox_1
+[2020.04.08-22.07.45:520][451]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2020.04.08-22.07.46:398][451]LogAssetEditorSubsystem: Opening Asset editor for TextureCube /Game/Yosi/Sky_Box/SkyBox_2.SkyBox_2
+[2020.04.08-22.07.46:466][451]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Yosi/Sky_Box/SpaceMap.SpaceMap
+[2020.04.08-22.07.46:470][451]LogMaterial: Display: Missing cached shader map for material SpaceMap, compiling. 
+[2020.04.08-22.07.46:666][451]LogMaterial: Display: Missing cached shader map for material SpaceMap, compiling. 
+[2020.04.08-22.07.46:676][451]LogMaterial: Display: Missing cached shader map for material SpaceMap, compiling. 
+[2020.04.08-22.07.46:714][451]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2020.04.08-22.07.46:714][451]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2020.04.08-22.07.46:714][451]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2020.04.08-22.07.46:714][451]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2020.04.08-22.07.46:714][451]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2020.04.08-22.07.46:714][451]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2020.04.08-22.07.46:714][451]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2020.04.08-22.07.46:714][451]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2020.04.08-22.07.46:714][451]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2020.04.08-22.07.46:714][451]LogSlate: Took 0.000088 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.04.08-22.07.47:300][498]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.04.08-22.07.47:300][498]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.04.08-22.07.47:300][498]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.08-22.07.47:300][498]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.08-22.07.52:302][965]LogSlate: Window 'SpaceMap' being destroyed
+[2020.04.08-22.08.08:554][884]LogLinker: Warning: While loading '../../../../../../Users/User/Documents/GitHub/IsoTetris/Content/StarterContent/Materials/M_Metal_Rust.uasset' failed to load '/Game/StarterContent/Textures/T_MacroVariation': Can't find file.
+[2020.04.08-22.08.08:554][884]LogLinker: Warning: While loading '../../../../../../Users/User/Documents/GitHub/IsoTetris/Content/StarterContent/Materials/M_Metal_Rust.uasset' failed to load '/Game/StarterContent/Textures/T_MacroVariation': Can't find file.
+[2020.04.08-22.08.08:555][884]LogLinker: Warning: While loading '../../../../../../Users/User/Documents/GitHub/IsoTetris/Content/StarterContent/Materials/M_Metal_Rust.uasset' failed to load '/Game/StarterContent/Textures/T_MacroVariation': Can't find file.
+[2020.04.08-22.08.08:555][884]LogLinker: Warning: While loading '../../../../../../Users/User/Documents/GitHub/IsoTetris/Content/StarterContent/Materials/M_Metal_Rust.uasset' failed to load '/Game/StarterContent/Textures/T_MacroVariation': Can't find file.
+[2020.04.08-22.08.08:582][884]LogLinker: Warning: While loading '../../../../../../Users/User/Documents/GitHub/IsoTetris/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset' failed to load '/Game/StarterContent/Textures/T_Smoke_SubUV': Can't find file.
+[2020.04.08-22.08.08:582][884]LogLinker: Warning: While loading '../../../../../../Users/User/Documents/GitHub/IsoTetris/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset' failed to load '/Game/StarterContent/Textures/T_Smoke_SubUV': Can't find file.
+[2020.04.08-22.08.08:582][884]LogLinker: Warning: While loading '../../../../../../Users/User/Documents/GitHub/IsoTetris/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset' failed to load '/Game/StarterContent/Textures/T_Smoke_Tiled_D': Can't find file.
+[2020.04.08-22.08.08:582][884]LogLinker: Warning: While loading '../../../../../../Users/User/Documents/GitHub/IsoTetris/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset' failed to load '/Game/StarterContent/Textures/T_Smoke_Tiled_D': Can't find file.
+[2020.04.08-22.08.08:582][884]LogLinker: Warning: While loading '../../../../../../Users/User/Documents/GitHub/IsoTetris/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset' failed to load '/Game/StarterContent/Textures/T_Smoke_SubUV': Can't find file.
+[2020.04.08-22.08.08:583][884]LogLinker: Warning: While loading '../../../../../../Users/User/Documents/GitHub/IsoTetris/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset' failed to load '/Game/StarterContent/Textures/T_Smoke_SubUV': Can't find file.
+[2020.04.08-22.08.08:583][884]LogLinker: Warning: While loading '../../../../../../Users/User/Documents/GitHub/IsoTetris/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset' failed to load '/Game/StarterContent/Textures/T_Smoke_Tiled_D': Can't find file.
+[2020.04.08-22.08.08:583][884]LogLinker: Warning: While loading '../../../../../../Users/User/Documents/GitHub/IsoTetris/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset' failed to load '/Game/StarterContent/Textures/T_Smoke_Tiled_D': Can't find file.
+[2020.04.08-22.08.08:583][884]LogLinker: Warning: While loading '../../../../../../Users/User/Documents/GitHub/IsoTetris/Content/StarterContent/Particles/Materials/M_Spark.uasset' failed to load '/Game/StarterContent/Textures/T_Spark_Core': Can't find file.
+[2020.04.08-22.08.08:583][884]LogLinker: Warning: While loading '../../../../../../Users/User/Documents/GitHub/IsoTetris/Content/StarterContent/Particles/Materials/M_Spark.uasset' failed to load '/Game/StarterContent/Textures/T_Spark_Core': Can't find file.
+[2020.04.08-22.08.08:584][884]LogLinker: Warning: While loading '../../../../../../Users/User/Documents/GitHub/IsoTetris/Content/StarterContent/Particles/Materials/M_Spark.uasset' failed to load '/Game/StarterContent/Textures/T_Spark_Core': Can't find file.
+[2020.04.08-22.08.08:584][884]LogLinker: Warning: While loading '../../../../../../Users/User/Documents/GitHub/IsoTetris/Content/StarterContent/Particles/Materials/M_Spark.uasset' failed to load '/Game/StarterContent/Textures/T_Spark_Core': Can't find file.
+[2020.04.08-22.08.08:635][884]LogLinker: Warning: While loading '../../../../../../Users/User/Documents/GitHub/IsoTetris/Content/StarterContent/Particles/Materials/M_Spark.uasset' failed to load '/Game/StarterContent/Textures/T_Spark_Core': Can't find file.
+[2020.04.08-22.08.08:635][884]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Spark_Core.T_Spark_Core Referenced by MaterialExpressionTextureSample_1
+[2020.04.08-22.08.08:635][884]LogLinker: Warning: While loading '../../../../../../Users/User/Documents/GitHub/IsoTetris/Content/StarterContent/Particles/Materials/M_Spark.uasset' failed to load '/Game/StarterContent/Textures/T_Spark_Core': Can't find file.
+[2020.04.08-22.08.08:635][884]LogLinker: Warning: While loading '../../../../../../Users/User/Documents/GitHub/IsoTetris/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset' failed to load '/Game/StarterContent/Textures/T_Smoke_SubUV': Can't find file.
+[2020.04.08-22.08.08:635][884]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Smoke_SubUV.T_Smoke_SubUV Referenced by MaterialExpressionParticleSubUV_0
+[2020.04.08-22.08.08:635][884]LogLinker: Warning: While loading '../../../../../../Users/User/Documents/GitHub/IsoTetris/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset' failed to load '/Game/StarterContent/Textures/T_Smoke_SubUV': Can't find file.
+[2020.04.08-22.08.08:635][884]LogLinker: Warning: While loading '../../../../../../Users/User/Documents/GitHub/IsoTetris/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset' failed to load '/Game/StarterContent/Textures/T_Smoke_Tiled_D': Can't find file.
+[2020.04.08-22.08.08:635][884]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Smoke_Tiled_D.T_Smoke_Tiled_D Referenced by MaterialExpressionTextureSample_0
+[2020.04.08-22.08.08:635][884]LogLinker: Warning: While loading '../../../../../../Users/User/Documents/GitHub/IsoTetris/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset' failed to load '/Game/StarterContent/Textures/T_Smoke_Tiled_D': Can't find file.
+[2020.04.08-22.08.08:637][884]LogLinker: Warning: While loading '../../../../../../Users/User/Documents/GitHub/IsoTetris/Content/StarterContent/Materials/M_Metal_Rust.uasset' failed to load '/Game/StarterContent/Textures/T_MacroVariation': Can't find file.
+[2020.04.08-22.08.08:637][884]LoadErrors: Failed to load /Game/StarterContent/Textures/T_MacroVariation.T_MacroVariation Referenced by MaterialExpressionTextureSample_58
+[2020.04.08-22.08.08:637][884]LogLinker: Warning: While loading '../../../../../../Users/User/Documents/GitHub/IsoTetris/Content/StarterContent/Materials/M_Metal_Rust.uasset' failed to load '/Game/StarterContent/Textures/T_MacroVariation': Can't find file.
+[2020.04.08-22.08.08:638][884]LogLinker: Warning: While loading '../../../../../../Users/User/Documents/GitHub/IsoTetris/Content/StarterContent/Materials/M_Metal_Rust.uasset' failed to load '/Game/StarterContent/Textures/T_MacroVariation': Can't find file.
+[2020.04.08-22.08.08:638][884]LoadErrors: Failed to load /Game/StarterContent/Textures/T_MacroVariation.T_MacroVariation Referenced by MaterialExpressionTextureSample_59
+[2020.04.08-22.08.08:638][884]LogLinker: Warning: While loading '../../../../../../Users/User/Documents/GitHub/IsoTetris/Content/StarterContent/Materials/M_Metal_Rust.uasset' failed to load '/Game/StarterContent/Textures/T_MacroVariation': Can't find file.
+[2020.04.08-22.08.08:704][884]LogMaterial: Display: Missing cached shader map for material M_Spark, compiling. 
+[2020.04.08-22.08.08:705][884]LogMaterial: Warning: C:\Users\User\Documents\GitHub\IsoTetris\Content\StarterContent\Particles\Materials\M_Spark.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.08-22.08.08:705][884]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.04.08-22.08.08:709][884]LogMaterial: Display: Missing cached shader map for material M_smoke_subUV, compiling. 
+[2020.04.08-22.08.08:709][884]LogMaterial: Warning: C:\Users\User\Documents\GitHub\IsoTetris\Content\StarterContent\Particles\Materials\M_smoke_subUV.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.08-22.08.08:709][884]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.04.08-22.08.08:709][884]LogMaterial: Display: 	(Node ParticleSubUV) Missing ParticleSubUV input texture
+[2020.04.08-22.08.08:740][884]LogMaterial: Display: Missing cached shader map for material M_Metal_Rust, compiling. 
+[2020.04.08-22.08.08:740][884]LogMaterial: Warning: C:\Users\User\Documents\GitHub\IsoTetris\Content\StarterContent\Materials\M_Metal_Rust.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.08-22.08.08:740][884]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.04.08-22.08.08:745][884]LogAIModule: Creating AISystem for world TetrisLevel1_01
+[2020.04.08-22.08.08:755][884]LogAssetEditorSubsystem: Opening Asset editor for World /Game/TetrisBP/Maps/TetrisLevel1_01.TetrisLevel1_01
+[2020.04.08-22.08.08:785][884]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.04.08-22.08.08:786][884]Cmd: MAP LOAD FILE="../../../../../../Users/User/Documents/GitHub/IsoTetris/Content/TetrisBP/Maps/TetrisLevel1_01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.08-22.08.08:787][884]LightingResults: New page: Lighting Build
+[2020.04.08-22.08.08:787][884]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0002 seconds. Added 5 classes and 0 folders.
+[2020.04.08-22.08.08:788][884]LoadErrors: New page: Loading map: TetrisLevel1_01.umap
+[2020.04.08-22.08.08:788][884]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.04.08-22.08.08:788][884]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.08-22.08.08:788][884]MapCheck: New page: Map Check
+[2020.04.08-22.08.08:788][884]LightingResults: New page: Lighting Build
+[2020.04.08-22.08.08:815][884]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2020.04.08-22.08.08:817][884]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/TetrisBP/Maps/Yosi) is flushing async loading
+[2020.04.08-22.08.08:817][884]LogStreaming: Display: Flushing async loaders.
+[2020.04.08-22.08.08:843][884]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/TetrisBP/Maps/Tom_Backup) is flushing async loading
+[2020.04.08-22.08.08:843][884]LogLinker: Warning: Failed to load '/Game/TetrisBP/Maps/Tom_Backup_BuiltData': Can't find file.
+[2020.04.08-22.08.08:843][884]LogLinker: Warning: Failed to load '/Game/TetrisBP/Maps/Tom_Backup_BuiltData': Can't find file.
+[2020.04.08-22.08.08:844][884]LogLinker: Warning: Failed to load '/Game/TetrisBP/Maps/Tom_Backup_BuiltData': Can't find file.
+[2020.04.08-22.08.08:844][884]LogLinker: Warning: Failed to load '/Game/TetrisBP/Maps/Tom_Backup_BuiltData': Can't find file.
+[2020.04.08-22.08.08:844][884]LogLinker: Warning: Failed to load '/Game/TetrisBP/Maps/Tom_Backup_BuiltData': Can't find file.
+[2020.04.08-22.08.08:844][884]LogLinker: Warning: Failed to load '/Game/TetrisBP/Maps/Tom_Backup_BuiltData': Can't find file.
+[2020.04.08-22.08.08:844][884]LogLinker: Warning: Failed to load '/Game/TetrisBP/Maps/Tom_Backup_BuiltData': Can't find file.
+[2020.04.08-22.08.08:844][884]LogLinker: Warning: Failed to load '/Game/TetrisBP/Maps/Tom_Backup_BuiltData': Can't find file.
+[2020.04.08-22.08.08:845][884]LogLinker: Warning: While loading '../../../../../../Users/User/Documents/GitHub/IsoTetris/Content/TetrisBP/Maps/Tom_Backup.umap' failed to load '/Game/TetrisBP/Maps/Tom_Backup_BuiltData': Can't find file.
+[2020.04.08-22.08.08:845][884]LoadErrors: Failed to load /Game/TetrisBP/Maps/Tom_Backup_BuiltData.Tom_Backup_BuiltData Referenced by PersistentLevel
+[2020.04.08-22.08.08:845][884]LogLinker: Warning: While loading '../../../../../../Users/User/Documents/GitHub/IsoTetris/Content/TetrisBP/Maps/Tom_Backup.umap' failed to load '/Game/TetrisBP/Maps/Tom_Backup_BuiltData': Can't find file.
+[2020.04.08-22.08.08:845][884]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/TetrisBP/Maps/Romy) is flushing async loading
+[2020.04.08-22.08.08:846][884]LogLinker: Warning: Failed to load '/Game/TetrisBP/Maps/Romy_BuiltData': Can't find file.
+[2020.04.08-22.08.08:846][884]LogLinker: Warning: Failed to load '/Game/TetrisBP/Maps/Romy_BuiltData': Can't find file.
+[2020.04.08-22.08.08:846][884]LogLinker: Warning: Failed to load '/Game/TetrisBP/Maps/Romy_BuiltData': Can't find file.
+[2020.04.08-22.08.08:846][884]LogLinker: Warning: Failed to load '/Game/TetrisBP/Maps/Romy_BuiltData': Can't find file.
+[2020.04.08-22.08.08:846][884]LogLinker: Warning: Failed to load '/Game/TetrisBP/Maps/Romy_BuiltData': Can't find file.
+[2020.04.08-22.08.08:846][884]LogLinker: Warning: Failed to load '/Game/TetrisBP/Maps/Romy_BuiltData': Can't find file.
+[2020.04.08-22.08.08:846][884]LogLinker: Warning: Failed to load '/Game/TetrisBP/Maps/Romy_BuiltData': Can't find file.
+[2020.04.08-22.08.08:846][884]LogLinker: Warning: Failed to load '/Game/TetrisBP/Maps/Romy_BuiltData': Can't find file.
+[2020.04.08-22.08.08:847][884]LogLinker: Warning: While loading '../../../../../../Users/User/Documents/GitHub/IsoTetris/Content/TetrisBP/Maps/Romy.umap' failed to load '/Game/TetrisBP/Maps/Romy_BuiltData': Can't find file.
+[2020.04.08-22.08.08:847][884]LoadErrors: Failed to load /Game/TetrisBP/Maps/Romy_BuiltData.Romy_BuiltData Referenced by PersistentLevel
+[2020.04.08-22.08.08:847][884]LogLinker: Warning: While loading '../../../../../../Users/User/Documents/GitHub/IsoTetris/Content/TetrisBP/Maps/Romy.umap' failed to load '/Game/TetrisBP/Maps/Romy_BuiltData': Can't find file.
+[2020.04.08-22.08.08:847][884]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/TetrisBP/Maps/Chen) is flushing async loading
+[2020.04.08-22.08.08:847][884]LogLinker: Warning: Failed to load '/Game/TetrisBP/Maps/Chen_BuiltData': Can't find file.
+[2020.04.08-22.08.08:848][884]LogLinker: Warning: Failed to load '/Game/TetrisBP/Maps/Chen_BuiltData': Can't find file.
+[2020.04.08-22.08.08:848][884]LogLinker: Warning: Failed to load '/Game/TetrisBP/Maps/Chen_BuiltData': Can't find file.
+[2020.04.08-22.08.08:848][884]LogLinker: Warning: Failed to load '/Game/TetrisBP/Maps/Chen_BuiltData': Can't find file.
+[2020.04.08-22.08.08:848][884]LogLinker: Warning: Failed to load '/Game/TetrisBP/Maps/Chen_BuiltData': Can't find file.
+[2020.04.08-22.08.08:848][884]LogLinker: Warning: Failed to load '/Game/TetrisBP/Maps/Chen_BuiltData': Can't find file.
+[2020.04.08-22.08.08:848][884]LogLinker: Warning: Failed to load '/Game/TetrisBP/Maps/Chen_BuiltData': Can't find file.
+[2020.04.08-22.08.08:848][884]LogLinker: Warning: Failed to load '/Game/TetrisBP/Maps/Chen_BuiltData': Can't find file.
+[2020.04.08-22.08.08:849][884]LogLinker: Warning: While loading '../../../../../../Users/User/Documents/GitHub/IsoTetris/Content/TetrisBP/Maps/Chen.umap' failed to load '/Game/TetrisBP/Maps/Chen_BuiltData': Can't find file.
+[2020.04.08-22.08.08:849][884]LoadErrors: Failed to load /Game/TetrisBP/Maps/Chen_BuiltData.Chen_BuiltData Referenced by PersistentLevel
+[2020.04.08-22.08.08:849][884]LogLinker: Warning: While loading '../../../../../../Users/User/Documents/GitHub/IsoTetris/Content/TetrisBP/Maps/Chen.umap' failed to load '/Game/TetrisBP/Maps/Chen_BuiltData': Can't find file.
+[2020.04.08-22.08.08:849][884]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/TetrisBP/Maps/Tomer) is flushing async loading
+[2020.04.08-22.08.08:849][884]LogLinker: Warning: Failed to load '/Game/TetrisBP/Maps/Tomer_BuiltData': Can't find file.
+[2020.04.08-22.08.08:850][884]LogLinker: Warning: Failed to load '/Game/TetrisBP/Maps/Tomer_BuiltData': Can't find file.
+[2020.04.08-22.08.08:850][884]LogLinker: Warning: Failed to load '/Game/TetrisBP/Maps/Tomer_BuiltData': Can't find file.
+[2020.04.08-22.08.08:850][884]LogLinker: Warning: Failed to load '/Game/TetrisBP/Maps/Tomer_BuiltData': Can't find file.
+[2020.04.08-22.08.08:850][884]LogLinker: Warning: Failed to load '/Game/TetrisBP/Maps/Tomer_BuiltData': Can't find file.
+[2020.04.08-22.08.08:850][884]LogLinker: Warning: Failed to load '/Game/TetrisBP/Maps/Tomer_BuiltData': Can't find file.
+[2020.04.08-22.08.08:850][884]LogLinker: Warning: Failed to load '/Game/TetrisBP/Maps/Tomer_BuiltData': Can't find file.
+[2020.04.08-22.08.08:850][884]LogLinker: Warning: Failed to load '/Game/TetrisBP/Maps/Tomer_BuiltData': Can't find file.
+[2020.04.08-22.08.08:850][884]LogLinker: Warning: While loading '../../../../../../Users/User/Documents/GitHub/IsoTetris/Content/TetrisBP/Maps/Tomer.umap' failed to load '/Game/TetrisBP/Maps/Tomer_BuiltData': Can't find file.
+[2020.04.08-22.08.08:850][884]LoadErrors: Failed to load /Game/TetrisBP/Maps/Tomer_BuiltData.Tomer_BuiltData Referenced by PersistentLevel
+[2020.04.08-22.08.08:851][884]LogLinker: Warning: While loading '../../../../../../Users/User/Documents/GitHub/IsoTetris/Content/TetrisBP/Maps/Tomer.umap' failed to load '/Game/TetrisBP/Maps/Tomer_BuiltData': Can't find file.
+[2020.04.08-22.08.08:902][884]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.08-22.08.08:959][884]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2020.04.08-22.08.08:985][884]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.08-22.08.08:985][884]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.287ms to complete.
+[2020.04.08-22.08.08:985][884]LogFileHelpers: Loading map 'TetrisLevel1_01' took 0.200
+[2020.04.08-22.08.10:379][ 46]LogSlate: Window 'Message Log' being destroyed
+[2020.04.08-22.08.10:383][ 46]LogSlate: Window 'Message Log' being destroyed
+[2020.04.08-22.08.10:710][ 85]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SkySphere)
+[2020.04.08-22.08.25:191][787]LogStaticMesh: Building static mesh SM_SkySphere...
+[2020.04.08-22.08.25:228][787]LogStaticMesh: Built static mesh [0.04s] /Engine/MapTemplates/Sky/SM_SkySphere.SM_SkySphere
+[2020.04.08-22.08.46:706][176]LogEditorViewport: Clicking on Actor (LMB): Space_Skybox_BP_C (Space_Skybox_BP)
+[2020.04.08-22.08.47:001][211]LogEditorViewport: Clicking Background
+[2020.04.08-22.08.47:440][263]LogEditorViewport: Clicking on Actor (LMB): Space_Skybox_BP_C (Space_Skybox_BP)
+[2020.04.08-22.08.54:088][508]Cmd: TRANSACTION UNDO
+[2020.04.08-22.08.54:088][508]LogEditorTransaction: Undo Move Actors
+[2020.04.08-22.08.54:095][508]LogMaterial: Display: Missing cached shader map for material SpaceMap, compiling. 
+[2020.04.08-22.08.54:138][509]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2020.04.08-22.08.54:138][509]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2020.04.08-22.08.54:138][509]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2020.04.08-22.08.54:138][509]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2020.04.08-22.08.54:138][509]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2020.04.08-22.08.54:138][509]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2020.04.08-22.08.54:138][509]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2020.04.08-22.08.54:138][509]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2020.04.08-22.08.54:138][509]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2020.04.08-22.08.54:651][526]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.04.08-22.08.54:651][526]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.04.08-22.08.54:651][526]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.08-22.08.54:651][526]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.08-22.09.01:966][933]Cmd: TRANSACTION UNDO
+[2020.04.08-22.09.01:966][933]LogEditorTransaction: Undo Set Rotation
+[2020.04.08-22.09.01:970][933]LogMaterial: Display: Missing cached shader map for material SpaceMap, compiling. 
+[2020.04.08-22.09.02:026][934]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2020.04.08-22.09.02:026][934]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2020.04.08-22.09.02:026][934]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2020.04.08-22.09.02:026][934]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2020.04.08-22.09.02:026][934]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2020.04.08-22.09.02:026][934]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2020.04.08-22.09.02:026][934]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2020.04.08-22.09.02:026][934]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2020.04.08-22.09.02:026][934]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2020.04.08-22.09.02:542][952]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.04.08-22.09.02:542][952]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.04.08-22.09.02:542][952]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.08-22.09.02:542][952]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.08-22.09.03:950][121]Cmd: TRANSACTION UNDO
+[2020.04.08-22.09.03:950][121]LogEditorTransaction: Undo Set Scale
+[2020.04.08-22.09.03:955][121]LogMaterial: Display: Missing cached shader map for material SpaceMap, compiling. 
+[2020.04.08-22.09.03:989][122]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2020.04.08-22.09.03:989][122]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2020.04.08-22.09.03:989][122]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2020.04.08-22.09.03:989][122]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2020.04.08-22.09.03:989][122]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2020.04.08-22.09.03:989][122]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2020.04.08-22.09.03:989][122]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2020.04.08-22.09.03:989][122]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2020.04.08-22.09.03:989][122]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2020.04.08-22.09.04:476][169]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.04.08-22.09.04:476][169]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.04.08-22.09.04:476][169]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.08-22.09.04:476][169]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.08-22.09.34:650][768]Cmd: TRANSACTION UNDO
+[2020.04.08-22.09.34:650][768]LogEditorTransaction: Undo Edit Kill Z
+[2020.04.08-22.09.34:654][768]LogMaterial: Display: Missing cached shader map for material SpaceMap, compiling. 
+[2020.04.08-22.09.34:706][769]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2020.04.08-22.09.34:706][769]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2020.04.08-22.09.34:706][769]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2020.04.08-22.09.34:706][769]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2020.04.08-22.09.34:706][769]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2020.04.08-22.09.34:706][769]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2020.04.08-22.09.34:706][769]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2020.04.08-22.09.34:706][769]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2020.04.08-22.09.34:706][769]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2020.04.08-22.09.35:211][784]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.04.08-22.09.35:211][784]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.04.08-22.09.35:211][784]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.08-22.09.35:211][784]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.08-22.10.14:296][365]LogMaterial: Display: Missing cached shader map for material SpaceMap, compiling. 
+[2020.04.08-22.10.14:316][366]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2020.04.08-22.10.14:316][366]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2020.04.08-22.10.14:316][366]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2020.04.08-22.10.14:316][366]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2020.04.08-22.10.14:316][366]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2020.04.08-22.10.14:316][366]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2020.04.08-22.10.14:316][366]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2020.04.08-22.10.14:316][366]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2020.04.08-22.10.14:316][366]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2020.04.08-22.10.14:317][366]LogSlate: Took 0.000108 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.04.08-22.10.14:903][436]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.04.08-22.10.14:903][436]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.04.08-22.10.14:903][436]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.08-22.10.14:903][436]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.08-22.10.45:677][614]LogMaterial: Display: Missing cached shader map for material SpaceMap, compiling. 
+[2020.04.08-22.10.45:687][614]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2020.04.08-22.10.45:687][614]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2020.04.08-22.10.45:687][614]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2020.04.08-22.10.45:687][614]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2020.04.08-22.10.45:687][614]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2020.04.08-22.10.45:687][614]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2020.04.08-22.10.45:687][614]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2020.04.08-22.10.45:687][614]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2020.04.08-22.10.45:687][614]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2020.04.08-22.10.45:687][614]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameterCube_0, compiling. 
+[2020.04.08-22.10.46:270][680]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.04.08-22.10.46:270][680]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.04.08-22.10.46:270][680]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.08-22.10.46:270][680]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.08-22.11.33:244][859]LogMaterial: Display: Missing cached shader map for material SpaceMap, compiling. 
+[2020.04.08-22.11.33:259][859]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameterCube_0, compiling. 
+[2020.04.08-22.11.33:264][859]LogMaterial: Display: Missing cached shader map for material SpaceMap, compiling. 
+[2020.04.08-22.11.33:276][860]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2020.04.08-22.11.33:276][860]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2020.04.08-22.11.33:276][860]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2020.04.08-22.11.33:276][860]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2020.04.08-22.11.33:276][860]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2020.04.08-22.11.33:276][860]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2020.04.08-22.11.33:276][860]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2020.04.08-22.11.33:276][860]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2020.04.08-22.11.33:276][860]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2020.04.08-22.11.33:896][928]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.04.08-22.11.33:896][928]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.04.08-22.11.33:896][928]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.08-22.11.33:896][928]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.08-22.11.44:415][914]LogMaterial: Display: Missing cached shader map for material SpaceMap, compiling. 
+[2020.04.08-22.11.44:429][914]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameterCube_0, compiling. 
+[2020.04.08-22.11.44:436][914]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2020.04.08-22.11.44:436][914]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2020.04.08-22.11.44:436][914]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2020.04.08-22.11.44:436][914]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2020.04.08-22.11.44:436][914]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2020.04.08-22.11.44:436][914]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2020.04.08-22.11.44:436][914]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2020.04.08-22.11.44:436][914]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2020.04.08-22.11.44:436][914]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2020.04.08-22.11.44:479][920]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2020.04.08-22.11.44:479][920]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2020.04.08-22.11.44:479][920]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2020.04.08-22.11.44:781][946]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1
+[2020.04.08-22.11.45:381][ 14]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.04.08-22.11.45:381][ 14]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.04.08-22.11.45:381][ 14]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.08-22.11.45:381][ 14]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.08-22.12.54:268][646]LogMaterial: Display: Missing cached shader map for material SpaceMap, compiling. 
+[2020.04.08-22.12.54:282][646]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2020.04.08-22.12.54:282][646]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2020.04.08-22.12.54:282][646]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2020.04.08-22.12.54:282][646]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2020.04.08-22.12.54:282][646]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2020.04.08-22.12.54:282][646]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2020.04.08-22.12.54:282][646]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2020.04.08-22.12.54:282][646]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2020.04.08-22.12.54:282][646]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2020.04.08-22.12.54:303][647]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2020.04.08-22.12.54:331][650]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2020.04.08-22.12.54:331][650]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2020.04.08-22.12.54:331][650]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2020.04.08-22.12.54:587][672]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2020.04.08-22.12.54:965][711]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.04.08-22.12.54:965][711]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.04.08-22.12.54:965][711]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.08-22.12.54:965][711]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.08-22.12.56:113][835]LogMaterial: Display: Missing cached shader map for material SpaceMap, compiling. 
+[2020.04.08-22.12.56:133][836]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2020.04.08-22.12.56:133][836]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2020.04.08-22.12.56:133][836]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2020.04.08-22.12.56:133][836]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2020.04.08-22.12.56:133][836]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2020.04.08-22.12.56:133][836]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2020.04.08-22.12.56:133][836]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2020.04.08-22.12.56:133][836]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2020.04.08-22.12.56:133][836]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2020.04.08-22.12.56:650][885]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.04.08-22.12.56:650][885]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.04.08-22.12.56:650][885]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.08-22.12.56:650][885]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.08-22.13.12:746][814]LogMaterial: Display: Missing cached shader map for material SpaceMap, compiling. 
+[2020.04.08-22.13.12:756][814]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2020.04.08-22.13.12:756][814]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2020.04.08-22.13.12:756][814]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2020.04.08-22.13.12:756][814]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2020.04.08-22.13.12:756][814]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2020.04.08-22.13.12:756][814]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2020.04.08-22.13.12:756][814]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2020.04.08-22.13.12:756][814]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2020.04.08-22.13.12:756][814]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2020.04.08-22.13.12:756][814]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.04.08-22.13.12:812][820]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2020.04.08-22.13.12:812][820]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2020.04.08-22.13.12:812][820]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2020.04.08-22.13.13:134][855]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1
+[2020.04.08-22.13.13:355][881]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.04.08-22.13.13:355][881]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.04.08-22.13.13:355][881]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.08-22.13.13:355][881]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.08-22.13.16:058][201]LogMaterial: Display: Missing cached shader map for material SpaceMap, compiling. 
+[2020.04.08-22.13.16:070][201]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2020.04.08-22.13.16:070][201]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2020.04.08-22.13.16:070][201]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2020.04.08-22.13.16:070][201]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2020.04.08-22.13.16:070][201]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2020.04.08-22.13.16:070][201]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2020.04.08-22.13.16:070][201]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2020.04.08-22.13.16:070][201]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2020.04.08-22.13.16:070][201]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2020.04.08-22.13.16:070][201]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.04.08-22.13.16:136][208]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2020.04.08-22.13.16:136][208]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2020.04.08-22.13.16:136][208]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2020.04.08-22.13.16:439][238]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1
+[2020.04.08-22.13.16:755][264]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.04.08-22.13.16:755][264]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.04.08-22.13.16:755][264]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.08-22.13.16:755][264]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.08-22.13.22:188][289]LogMaterialEditor: Saving and Compiling material SpaceMap
+[2020.04.08-22.13.22:503][289]LogMaterial: Display: Missing cached shader map for material SpaceMap, compiling. 
+[2020.04.08-22.13.22:538][289]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2020.04.08-22.13.22:538][289]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2020.04.08-22.13.22:538][289]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2020.04.08-22.13.22:538][289]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2020.04.08-22.13.22:538][289]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2020.04.08-22.13.22:538][289]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2020.04.08-22.13.22:538][289]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2020.04.08-22.13.22:539][289]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2020.04.08-22.13.22:539][289]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2020.04.08-22.13.22:548][289]LogMaterial: Display: Missing cached shader map for material SpaceMap, compiling. 
+[2020.04.08-22.13.22:591][289]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 15
+[2020.04.08-22.13.22:591][289]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 13
+[2020.04.08-22.13.22:592][289]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 11
+[2020.04.08-22.13.22:594][289]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2020.04.08-22.13.22:610][289]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.04.08-22.13.23:157][289]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 11
+[2020.04.08-22.13.23:157][289]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 10
+[2020.04.08-22.13.23:157][289]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 9
+[2020.04.08-22.13.23:157][289]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 8
+[2020.04.08-22.13.23:157][289]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2020.04.08-22.13.23:157][289]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 6
+[2020.04.08-22.13.23:157][289]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 5
+[2020.04.08-22.13.23:157][289]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 4
+[2020.04.08-22.13.23:157][289]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2020.04.08-22.13.23:157][289]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 2
+[2020.04.08-22.13.23:157][289]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 1
+[2020.04.08-22.13.23:164][289]TextureStreamingBuild: Display: Compiling optional shaders took 0.568 seconds.
+[2020.04.08-22.13.23:197][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2020.04.08-22.13.23:565][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Yosi/Sky_Box/SpaceMap" FILE="../../../../../../Users/User/Documents/GitHub/IsoTetris/Content/Yosi/Sky_Box/SpaceMap.uasset" SILENT=true
+[2020.04.08-22.13.23:584][289]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/IsoTetris/Saved/SpaceMap66A5E0854B65AE50B60E9B9C6DBFFDB3.tmp' to '../../../../../../Users/User/Documents/GitHub/IsoTetris/Content/Yosi/Sky_Box/SpaceMap.uasset'
+[2020.04.08-22.13.23:594][289]AssetCheck: New page: Asset Save: SpaceMap
+[2020.04.08-22.13.23:594][289]LogContentValidation: Display: Validating Material /Game/Yosi/Sky_Box/SpaceMap.SpaceMap
+[2020.04.08-22.13.23:598][289]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.04.08-22.13.23:598][289]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.04.08-22.13.23:598][289]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.08-22.13.23:598][289]MaterialEditorStats: Texture samplers: 3/16
+[2020.04.08-22.13.26:776][670]LogMaterial: Display: Missing cached shader map for material SpaceMap, compiling. 
+[2020.04.08-22.13.26:788][670]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2020.04.08-22.13.26:788][670]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2020.04.08-22.13.26:788][670]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2020.04.08-22.13.26:788][670]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2020.04.08-22.13.26:788][670]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2020.04.08-22.13.26:788][670]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2020.04.08-22.13.26:788][670]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2020.04.08-22.13.26:788][670]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2020.04.08-22.13.26:788][670]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2020.04.08-22.13.26:792][670]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameterCube_0, compiling. 
+[2020.04.08-22.13.26:836][675]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2020.04.08-22.13.26:836][675]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2020.04.08-22.13.26:836][675]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2020.04.08-22.13.27:174][706]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1
+[2020.04.08-22.13.27:416][734]MaterialEditorStats: Base pass shader: 123 instructions
+[2020.04.08-22.13.27:416][734]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 197 instructions
+[2020.04.08-22.13.27:416][734]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.08-22.13.27:416][734]MaterialEditorStats: Texture samplers: 3/16
+[2020.04.08-22.13.27:416][734]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.04.08-22.13.33:740][339]LogMaterial: Display: Missing cached shader map for material SpaceMap, compiling. 
+[2020.04.08-22.13.33:892][340]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2020.04.08-22.13.33:892][340]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2020.04.08-22.13.33:892][340]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2020.04.08-22.13.33:892][340]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2020.04.08-22.13.33:892][340]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2020.04.08-22.13.33:892][340]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2020.04.08-22.13.33:892][340]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2020.04.08-22.13.33:892][340]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2020.04.08-22.13.33:892][340]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2020.04.08-22.13.34:655][429]LogMaterial: Display: Missing cached shader map for material SpaceMap, compiling. 
+[2020.04.08-22.13.34:667][429]LogMaterial: Display: Missing cached shader map for material SpaceMap, compiling. 
+[2020.04.08-22.13.34:675][429]LogMaterial: Display: Missing cached shader map for material SpaceMap, compiling. 
+[2020.04.08-22.13.34:697][430]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2020.04.08-22.13.34:697][430]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2020.04.08-22.13.34:913][456]MaterialEditorStats: Base pass shader without light map: 39 instructions
+[2020.04.08-22.13.34:913][456]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.08-22.13.34:913][456]MaterialEditorStats: Texture samplers: 1/16
+[2020.04.08-22.13.34:913][456]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.04.08-22.13.56:810][612]LogMaterialEditor: Saving and Compiling material SpaceMap
+[2020.04.08-22.13.57:127][612]LogMaterial: Display: Missing cached shader map for material SpaceMap, compiling. 
+[2020.04.08-22.13.57:156][612]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2020.04.08-22.13.57:156][612]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2020.04.08-22.13.57:163][612]LogMaterial: Display: Missing cached shader map for material SpaceMap, compiling. 
+[2020.04.08-22.13.57:169][612]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 4
+[2020.04.08-22.13.57:169][612]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 3
+[2020.04.08-22.13.57:169][612]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2
+[2020.04.08-22.13.57:169][612]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1
+[2020.04.08-22.13.57:196][612]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2020.04.08-22.13.57:206][612]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.04.08-22.13.57:456][612]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2
+[2020.04.08-22.13.57:456][612]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2020.04.08-22.13.57:460][612]TextureStreamingBuild: Display: Compiling optional shaders took 0.264 seconds.
+[2020.04.08-22.13.57:489][612]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.04.08-22.13.57:534][612]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Yosi/Sky_Box/SpaceMap" FILE="../../../../../../Users/User/Documents/GitHub/IsoTetris/Content/Yosi/Sky_Box/SpaceMap.uasset" SILENT=true
+[2020.04.08-22.13.57:548][612]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/IsoTetris/Saved/SpaceMap0A8717E14C4BF622DF64F5846A0DF034.tmp' to '../../../../../../Users/User/Documents/GitHub/IsoTetris/Content/Yosi/Sky_Box/SpaceMap.uasset'
+[2020.04.08-22.13.57:556][612]AssetCheck: New page: Asset Save: SpaceMap
+[2020.04.08-22.13.57:556][612]LogContentValidation: Display: Validating Material /Game/Yosi/Sky_Box/SpaceMap.SpaceMap
+[2020.04.08-22.14.26:510][693]LogMaterialEditor: Saving and Compiling material SpaceMap
+[2020.04.08-22.14.26:524][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Yosi/Sky_Box/SpaceMap" FILE="../../../../../../Users/User/Documents/GitHub/IsoTetris/Content/Yosi/Sky_Box/SpaceMap.uasset" SILENT=true
+[2020.04.08-22.14.26:533][693]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/IsoTetris/Saved/SpaceMapB0502DF84436C9B5813D3CB400F09CB7.tmp' to '../../../../../../Users/User/Documents/GitHub/IsoTetris/Content/Yosi/Sky_Box/SpaceMap.uasset'
+[2020.04.08-22.14.26:542][693]AssetCheck: New page: Asset Save: SpaceMap
+[2020.04.08-22.14.26:542][693]LogContentValidation: Display: Validating Material /Game/Yosi/Sky_Box/SpaceMap.SpaceMap
+[2020.04.08-22.14.27:724][825]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Yosi/Sky_Box/Space_Skybox_BP.Space_Skybox_BP
+[2020.04.08-22.14.27:817][825]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 121 classes and 0 folders.
+[2020.04.08-22.14.45:861][132]LogSlate: Took 0.004180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.04.08-22.16.00:082][219]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Yosi/Sky_Box/Space_Skybox_BP" FILE="../../../../../../Users/User/Documents/GitHub/IsoTetris/Content/Yosi/Sky_Box/Space_Skybox_BP.uasset" SILENT=true
+[2020.04.08-22.16.00:101][219]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/IsoTetris/Saved/Space_Skybox_BP0BAE8C41440477EB84A83D8B110575A9.tmp' to '../../../../../../Users/User/Documents/GitHub/IsoTetris/Content/Yosi/Sky_Box/Space_Skybox_BP.uasset'
+[2020.04.08-22.16.00:111][219]AssetCheck: New page: Asset Save: Space_Skybox_BP
+[2020.04.08-22.16.00:111][219]LogContentValidation: Display: Validating Blueprint /Game/Yosi/Sky_Box/Space_Skybox_BP.Space_Skybox_BP
+[2020.04.08-22.16.01:031][322]BlueprintLog: New page: Compile Space_Skybox_BP
+[2020.04.08-22.16.01:182][322]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2020.04.08-22.17.09:032][910]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Yosi/Sky_Box/Space_Skybox_BP" FILE="../../../../../../Users/User/Documents/GitHub/IsoTetris/Content/Yosi/Sky_Box/Space_Skybox_BP.uasset" SILENT=true
+[2020.04.08-22.17.09:047][910]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/IsoTetris/Saved/Space_Skybox_BPC746080A47DD41905E0ECDBF8F8A34DA.tmp' to '../../../../../../Users/User/Documents/GitHub/IsoTetris/Content/Yosi/Sky_Box/Space_Skybox_BP.uasset'
+[2020.04.08-22.17.09:058][910]AssetCheck: New page: Asset Save: Space_Skybox_BP
+[2020.04.08-22.17.09:058][910]LogContentValidation: Display: Validating Blueprint /Game/Yosi/Sky_Box/Space_Skybox_BP.Space_Skybox_BP
+[2020.04.08-22.17.09:666][975]BlueprintLog: New page: Compile Space_Skybox_BP
+[2020.04.08-22.17.09:812][975]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2020.04.08-22.18.09:540][399]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2020.04.08-22.18.09:695][399]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/IsoTetris/Saved/TetrisLevel1_01_Auto1DE95EFCB4FD10C8B8EEC1695E1D17A32.tmp' to '../../../../../../Users/User/Documents/GitHub/IsoTetris/Saved/Autosaves/Game/TetrisBP/Maps/TetrisLevel1_01_Auto1.umap'
+[2020.04.08-22.18.09:697][399]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TetrisBP/Maps/TetrisLevel1_01' took 0.187
+[2020.04.08-22.18.09:697][399]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.187
+[2020.04.08-22.18.09:697][399]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Yosi/Sky_Box/Space_Skybox_BP] ([1] browsable assets)...
+[2020.04.08-22.18.09:705][399]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Yosi/Sky_Box/Space_Skybox_BP.Space_Skybox_BP]
+[2020.04.08-22.18.09:705][399]OBJ SavePackage: Finished generating thumbnails for package [/Game/Yosi/Sky_Box/Space_Skybox_BP]
+[2020.04.08-22.18.09:721][399]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/IsoTetris/Saved/Space_Skybox_BP_Auto175B4357F4EFB83948FAA14A6D4DF8A16.tmp' to '../../../../../../Users/User/Documents/GitHub/IsoTetris/Saved/Autosaves/Game/Yosi/Sky_Box/Space_Skybox_BP_Auto1.uasset'
+[2020.04.08-22.18.09:722][399]LogFileHelpers: Auto-saving content packages took 0.024
+[2020.04.08-22.24.53:099][606]BlueprintLog: New page: Compile Space_Skybox_BP
+[2020.04.08-22.24.53:254][606]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2020.04.08-22.25.14:749][742]LogEditorViewport: Clicking on Actor (LMB): Space_Skybox_BP_C (Space_Skybox_BP)
+[2020.04.08-22.25.57:846][212]LogEditorViewport: Clicking on Actor (LMB): Space_Skybox_BP_C (Space_Skybox_BP)
+[2020.04.08-22.26.07:082][292]BlueprintLog: New page: Compile Space_Skybox_BP
+[2020.04.08-22.26.07:234][292]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2020.04.08-22.26.08:108][393]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Yosi/Sky_Box/Space_Skybox_BP" FILE="../../../../../../Users/User/Documents/GitHub/IsoTetris/Content/Yosi/Sky_Box/Space_Skybox_BP.uasset" SILENT=true
+[2020.04.08-22.26.08:128][393]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/IsoTetris/Saved/Space_Skybox_BPD9CCBE73425D6D6654FC8781F8060930.tmp' to '../../../../../../Users/User/Documents/GitHub/IsoTetris/Content/Yosi/Sky_Box/Space_Skybox_BP.uasset'
+[2020.04.08-22.26.08:139][393]AssetCheck: New page: Asset Save: Space_Skybox_BP
+[2020.04.08-22.26.08:139][393]LogContentValidation: Display: Validating Blueprint /Game/Yosi/Sky_Box/Space_Skybox_BP.Space_Skybox_BP
+[2020.04.08-22.26.08:651][452]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Yosi/Sky_Box/Space_Skybox_BP" FILE="../../../../../../Users/User/Documents/GitHub/IsoTetris/Content/Yosi/Sky_Box/Space_Skybox_BP.uasset" SILENT=true
+[2020.04.08-22.26.08:662][452]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/IsoTetris/Saved/Space_Skybox_BPFB386F764F126FEDD21074BDB6725AE0.tmp' to '../../../../../../Users/User/Documents/GitHub/IsoTetris/Content/Yosi/Sky_Box/Space_Skybox_BP.uasset'
+[2020.04.08-22.26.08:670][452]AssetCheck: New page: Asset Save: Space_Skybox_BP
+[2020.04.08-22.26.08:670][452]LogContentValidation: Display: Validating Blueprint /Game/Yosi/Sky_Box/Space_Skybox_BP.Space_Skybox_BP
+[2020.04.08-22.26.12:633][926]LogEditorViewport: Clicking on Actor (LMB): Space_Skybox_BP_C (Space_Skybox_BP)
+[2020.04.08-22.26.59:209][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Yosi/Sky_Box/Space_Skybox_BP" FILE="../../../../../../Users/User/Documents/GitHub/IsoTetris/Content/Yosi/Sky_Box/Space_Skybox_BP.uasset" SILENT=true
+[2020.04.08-22.26.59:225][ 14]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/IsoTetris/Saved/Space_Skybox_BP78E35CD24135F7694DA4D39B52F86BA0.tmp' to '../../../../../../Users/User/Documents/GitHub/IsoTetris/Content/Yosi/Sky_Box/Space_Skybox_BP.uasset'
+[2020.04.08-22.26.59:236][ 14]AssetCheck: New page: Asset Save: Space_Skybox_BP
+[2020.04.08-22.26.59:236][ 14]LogContentValidation: Display: Validating Blueprint /Game/Yosi/Sky_Box/Space_Skybox_BP.Space_Skybox_BP
+[2020.04.08-22.27.09:612][238]LogRenderer: Reallocating scene render targets to support 1096x740 Format 10 NumSamples 1 (Frame:1).
+[2020.04.08-22.27.18:452][279]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.04.08-22.27.18:614][279]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/IsoTetris/Saved/TetrisLevel1_01487FD3D3465DE99576FE8AAACB74D263.tmp' to '../../../../../../Users/User/Documents/GitHub/IsoTetris/Content/TetrisBP/Maps/TetrisLevel1_01.umap'
+[2020.04.08-22.27.18:683][279]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/IsoTetris/Saved/TetrisLevel1_01_BuiltDataB5E753304FAC2F554E6DFE92F71D2C5B.tmp' to '../../../../../../Users/User/Documents/GitHub/IsoTetris/Content/TetrisBP/Maps/TetrisLevel1_01_BuiltData.uasset'
+[2020.04.08-22.27.18:695][279]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.08-22.27.18:695][279]LogContentValidation: Display: Validating World /Game/TetrisBP/Maps/TetrisLevel1_01.TetrisLevel1_01
+[2020.04.08-22.27.18:695][279]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TetrisBP/Maps/TetrisLevel1_01_BuiltData.TetrisLevel1_01_BuiltData
+[2020.04.08-22.27.47:859][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Yosi/Sky_Box/Space_Skybox_BP" FILE="../../../../../../Users/User/Documents/GitHub/IsoTetris/Content/Yosi/Sky_Box/Space_Skybox_BP.uasset" SILENT=true
+[2020.04.08-22.27.47:875][520]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/IsoTetris/Saved/Space_Skybox_BPA38E142D4CF5E1AE9DD505913A1A3BA1.tmp' to '../../../../../../Users/User/Documents/GitHub/IsoTetris/Content/Yosi/Sky_Box/Space_Skybox_BP.uasset'
+[2020.04.08-22.27.47:886][520]AssetCheck: New page: Asset Save: Space_Skybox_BP
+[2020.04.08-22.27.47:887][520]LogContentValidation: Display: Validating Blueprint /Game/Yosi/Sky_Box/Space_Skybox_BP.Space_Skybox_BP
+[2020.04.08-22.28.07:871][705]LogEditorViewport: Clicking Background
+[2020.04.08-22.28.08:397][768]LogEditorViewport: Clicking on Actor (LMB): Space_Skybox_BP_C (Space_Skybox_BP)
+[2020.04.08-22.28.15:594][491]BlueprintLog: New page: Compile Space_Skybox_BP
+[2020.04.08-22.28.15:745][491]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2020.04.08-22.28.16:860][617]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Yosi/Sky_Box/Space_Skybox_BP" FILE="../../../../../../Users/User/Documents/GitHub/IsoTetris/Content/Yosi/Sky_Box/Space_Skybox_BP.uasset" SILENT=true
+[2020.04.08-22.28.16:876][617]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/IsoTetris/Saved/Space_Skybox_BP75A54B30445E07D785A32BBB0CA01620.tmp' to '../../../../../../Users/User/Documents/GitHub/IsoTetris/Content/Yosi/Sky_Box/Space_Skybox_BP.uasset'
+[2020.04.08-22.28.16:886][617]AssetCheck: New page: Asset Save: Space_Skybox_BP
+[2020.04.08-22.28.16:886][617]LogContentValidation: Display: Validating Blueprint /Game/Yosi/Sky_Box/Space_Skybox_BP.Space_Skybox_BP
+[2020.04.08-22.28.26:550][761]LogEditorViewport: Clicking on Actor (LMB): Space_Skybox_BP_C (Space_Skybox_BP)
+[2020.04.08-22.28.34:963][765]LogEditorViewport: Clicking on Actor (LMB): Space_Skybox_BP_C (Space_Skybox_BP)
+[2020.04.08-22.28.41:774][544]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2020.04.08-22.28.41:780][545]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.012 s
+[2020.04.08-22.28.41:780][545]LogOutputDevice: Error: === Handled ensure: ===
+[2020.04.08-22.28.41:780][545]LogOutputDevice: Error: 
+[2020.04.08-22.28.41:780][545]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Core/Private/Math/Matrix.cpp] [Line: 8]
+[2020.04.08-22.28.41:780][545]LogOutputDevice: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2020.04.08-22.28.41:780][545]LogOutputDevice: Error: Stack: 
+[2020.04.08-22.28.41:780][545]LogOutputDevice: Error: [Callstack] 0x00007ff8755c9016 UE4Editor-Core.dll!UnknownFunction []
+[2020.04.08-22.28.41:780][545]LogOutputDevice: Error: [Callstack] 0x00007ff874fcb21a UE4Editor-Core.dll!UnknownFunction []
+[2020.04.08-22.28.41:780][545]LogOutputDevice: Error: [Callstack] 0x00007ff8627fbc95 UE4Editor-Renderer.dll!UnknownFunction []
+[2020.04.08-22.28.41:780][545]LogOutputDevice: Error: [Callstack] 0x00007ff862d9519b UE4Editor-Renderer.dll!UnknownFunction []
+[2020.04.08-22.28.41:780][545]LogOutputDevice: Error: [Callstack] 0x00007ff862d5a955 UE4Editor-Renderer.dll!UnknownFunction []
+[2020.04.08-22.28.41:780][545]LogOutputDevice: Error: [Callstack] 0x00007ff862d92703 UE4Editor-Renderer.dll!UnknownFunction []
+[2020.04.08-22.28.41:780][545]LogOutputDevice: Error: [Callstack] 0x00007ff862d756d8 UE4Editor-Renderer.dll!UnknownFunction []
+[2020.04.08-22.28.41:780][545]LogOutputDevice: Error: [Callstack] 0x00007ff862ce48c5 UE4Editor-Renderer.dll!UnknownFunction []
+[2020.04.08-22.28.41:780][545]LogOutputDevice: Error: [Callstack] 0x00007ff862ce3ccb UE4Editor-Renderer.dll!UnknownFunction []
+[2020.04.08-22.28.41:780][545]LogOutputDevice: Error: [Callstack] 0x00007ff86287d71c UE4Editor-Renderer.dll!UnknownFunction []
+[2020.04.08-22.28.41:780][545]LogOutputDevice: Error: [Callstack] 0x00007ff862cfb728 UE4Editor-Renderer.dll!UnknownFunction []
+[2020.04.08-22.28.41:780][545]LogOutputDevice: Error: [Callstack] 0x00007ff862cd954c UE4Editor-Renderer.dll!UnknownFunction []
+[2020.04.08-22.28.41:780][545]LogOutputDevice: Error: [Callstack] 0x00007ff874e79ff2 UE4Editor-Core.dll!UnknownFunction []
+[2020.04.08-22.28.41:780][545]LogOutputDevice: Error: [Callstack] 0x00007ff874e7a393 UE4Editor-Core.dll!UnknownFunction []
+[2020.04.08-22.28.41:780][545]LogOutputDevice: Error: [Callstack] 0x00007ff883775391 UE4Editor-RenderCore.dll!UnknownFunction []
+[2020.04.08-22.28.41:780][545]LogOutputDevice: Error: [Callstack] 0x00007ff88377e254 UE4Editor-RenderCore.dll!UnknownFunction []
+[2020.04.08-22.28.41:780][545]LogOutputDevice: Error: [Callstack] 0x00007ff8752f380f UE4Editor-Core.dll!UnknownFunction []
+[2020.04.08-22.28.41:780][545]LogOutputDevice: Error: [Callstack] 0x00007ff8752f3644 UE4Editor-Core.dll!UnknownFunction []
+[2020.04.08-22.28.41:780][545]LogOutputDevice: Error: [Callstack] 0x00007ff8d8f87bd4 KERNEL32.DLL!UnknownFunction []
+[2020.04.08-22.28.41:780][545]LogOutputDevice: Error: [Callstack] 0x00007ff8d920ced1 ntdll.dll!UnknownFunction []
+[2020.04.08-22.28.41:780][545]LogOutputDevice: Error: 
+[2020.04.08-22.28.41:780][545]LogStats:                SubmitErrorReport -  0.000 s
